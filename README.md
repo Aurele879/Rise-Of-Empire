@@ -1,2 +1,2 @@
 # CyberDeck
-<img src="assets/icon.ico"></img>
+<img src="assets/cyberdeck.ico"></img>
